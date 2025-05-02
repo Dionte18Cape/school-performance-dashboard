@@ -1,0 +1,91 @@
+PERSON_ID,SCHOOL_ID,FIRST_NAME,LAST_NAME,BIRTH_DATE,ADDRESS,CITY,REGION,POSTAL_CODE,COUNTRY
+1,1,Jessica,Martin,1966-11-25,591 Memorial Dr,Clinton,NY,13323,USA
+2,1,Thomas,Thompson,1971-05-14,55 Brooksby Village Way,Clinton,NY,13323,USA
+3,1,Sarah,Garcia,1975-09-07,137 Teaticket Hwy,Clinton,NY,13323,USA
+4,1,Daniel,Lewis,1979-05-19,677 Timpany Blvd,Clinton,NY,13323,USA
+5,1,Lisa,Hall,1982-04-23,337 Russell St,Clinton,NY,13323,USA
+6,1,Paul,Hill,1990-04-29,1775 Washington St,Clinton,NY,13323,USA
+7,1,Steven,Green,2007-01-23,280 Washington Street,Clinton,NY,13323,USA
+8,1,Deborah,Collins,2005-10-31,742 Main Street,Clinton,NY,13323,USA
+9,1,Timothy,Morris,2005-12-02,200 Otis Street,Clinton,NY,13323,USA
+10,1,Laura,Cook,2005-12-03,180 North King Street,Clinton,NY,13323,USA
+11,1,Helen,Cox,2007-05-16,300 Colony Place,Clinton,NY,13323,USA
+12,1,Nicholas,Howard,2006-02-14,301 Falls Blvd,Clinton,NY,13323,USA
+13,1,Emma,Hughes,2005-10-04,262 Swansea Mall Dr,Clinton,NY,13323,USA
+14,1,Raymond,Flores,2006-02-27,333 Main Street,Clinton,NY,13323,USA
+15,1,Carolyn,Griffin ,2006-01-13,2055 Niagara Falls Blvd,Clinton,NY,13323,USA
+16,1,Tyler,Patterson,2006-02-28,101 Sanford Farm Shpg Center,Clinton,NY,13323,USA
+17,1,Diane,King,2006-12-17,297 Grant Avenue,Clinton,NY,13323,USA
+18,1,Zachary,Foster,2007-01-01,30 Catskill,Clinton,NY,13323,USA
+19,1,Jeremy,Gonzales,2006-10-14,161 Centereach Mall,Clinton,NY,13323,USA
+20,1,Frances,Lee,2007-04-11,3018 East Ave,Clinton,NY,13323,USA
+21,1,Cheryl,White,2006-07-15,5033 Transit Road,Clinton,NY,13323,USA
+22,1,Jesse,Cooper,2006-06-14,25737 US Rt 11,Clinton,NY,13323,USA
+23,1,Billy,Jones,2005-11-04,2400 Route 9,Clinton,NY,13323,USA
+24,1,Julia,Carter,2006-11-13,10401 Bennett Road,Clinton,NY,13323,USA
+25,1,Gabriel,Williams,2006-12-09,1549 Rt 9,Clinton,NY,13323,USA
+26,1,Denise,Baker,2007-02-20,5360 Southwestern Blvd,Clinton,NY,13323,USA
+27,1,Abigail,Lopez,2006-04-20,135 Fairgrounds Memorial Pkwy,Clinton,NY,13323,USA
+28,1,Sophia,Washington,2005-10-08,579 Troy-Schenectady Road,Clinton,NY,13323,USA
+29,1,Johnny,Foster,2005-11-25,7155 State Rt 12 S,Clinton,NY,13323,USA
+30,1,Joseph,Harris,2007-06-01,66-4 Parkhurst Rd,Clinton,NY,13413,USA
+31,1,Karen,Robinson,2006-05-12,374 William S Canning Blvd,Clinton,NY,13413,USA
+32,1,Nancy,Rodriguez,2006-07-10,121 Worcester Rd,Clinton,NY,13413,USA
+33,1,Kenneth,Nelson,2006-03-21,11 Jungle Road,Clinton,NY,13413,USA
+34,1,Joshua,Mitchell,2005-10-11,301 Massachusetts Ave,Clinton,NY,13413,USA
+35,1,Michelle,Perez,2006-06-14,780 Lynnway,Clinton,NY,13413,USA
+36,1,Carol,Turner,2005-12-08,70 Pleasant Valley Street,Clinton,NY,13413,USA
+37,1,Cynthia,Bailey,2007-06-17,555 East Main St,Clinton,NY,13413,USA
+38,1,Larry,Brooks,2005-12-04,450 Highland Ave,Clinton,NY,13413,USA
+39,1,Justin,Sanders,2006-04-29,1105 Boston Road,Clinton,NY,13413,USA
+40,1,Patrick,Butler,2006-07-17,550 Providence Hwy,Clinton,NY,13413,USA
+41,1,Virginia,Gonzales,2006-11-13,3005 Cranberry Hwy Rt 6 28,Clinton,NY,13413,USA
+42,2,Jack,Bryant ,1967-02-12,250 Rt 59,New Hartford,NY,13413,USA
+43,2,Douglas,Martinez,1976-08-17,4133 Veterans Memorial Drive,New Hartford,NY,13413,USA
+44,2,Adam,Thomas,1981-03-11,6265 Brockport Spencerport Rd,New Hartford,NY,13413,USA
+45,2,Nathan,Carter,1983-04-04,3191 County rd 10,New Hartford,NY,13413,USA
+46,2,Hannah,Davis,1969-12-28,85 Crooked Hill Road,New Hartford,NY,13413,USA
+47,2,Jacqueline,Cook,1994-02-26,872 Route 13,New Hartford,NY,13413,USA
+48,2,Austin,Lopez,2006-07-29,2465 Hempstead Turnpike,New Hartford,NY,13413,USA
+49,2,Sara,Turner,2007-06-23,901 Route 110,New Hartford,NY,13413,USA
+50,2,Grace,Richardson,2005-11-20,311 RT 9W,New Hartford,NY,13413,USA
+51,2,Judy,Anderson,2007-05-04,100 Elm Ridge Center Dr,New Hartford,NY,13413,USA
+52,2,Marilyn,Johnson,2007-09-17,103 North Caroline St,New Hartford,NY,13413,USA
+53,2,Rose,Smith,2007-07-29,2 Gannett Dr,New Hartford,NY,13413,USA
+54,2,Natalie,Garcia,2006-10-02,350 E Fairmount Ave,New Hartford,NY,13413,USA
+55,2,Vincent,Harris,2006-04-05,4975 Transit Rd,New Hartford,NY,13413,USA
+56,2,Jane,White,2006-09-22,425 Route 31,New Hartford,NY,13413,USA
+57,2,James,Smith,2005-09-23,777 Brockton Avenue,New Hartford,NY,13104,USA
+58,2,Patricia,Jones,2006-02-11,30 Memorial Drive,New Hartford,NY,13104,USA
+59,2,Elizabeth,Taylor,2006-09-15,250 Hartford Avenue,New Hartford,NY,13104,USA
+60,2,David,Anderson,2006-11-12,700 Oak Street,New Hartford,NY,13104,USA
+61,2,Charles,Martinez,2006-06-11,42 Fairhaven Commons Way,New Hartford,NY,13104,USA
+62,2,Sandra,Lopez,2006-02-10,295 Plymouth Street,New Hartford,NY,13104,USA
+63,2,Donna,Gonzalez,2006-08-07,20 Soojian Dr,New Hartford,NY,13104,USA
+64,2,Brian,Parker,2006-12-15,830 Curran Memorial Hwy,New Hartford,NY,13104,USA
+65,2,Melissa,Evans,2006-02-02,1470 S Washington St,New Hartford,NY,13104,USA
+66,2,Edward,Edwards,2005-12-30,506 State Road,New Hartford,NY,13104,USA
+67,2,Ronald,Stewart,2006-08-27,72 Main St,New Hartford,NY,13104,USA
+68,2,Kathleen,Cooper,2007-07-16,555 Hubbard Ave-Suite 12,New Hartford,NY,13104,USA
+69,2,Jonathan,James,2007-05-12,36 Paramount Drive,New Hartford,NY,13104,USA
+70,2,Brenda,Kelly,2006-09-22,1180 Fall River Avenue,New Hartford,NY,13104,USA
+71,2,Frank,Henderson,2007-05-09,100 Charlton Road,New Hartford,NY,13104,USA
+72,2,Debra,Simmons,2005-11-07,352 Palmer Road,New Hartford,NY,13104,USA
+73,3,Rachel,Alexander,1976-05-05,141 Washington Ave Extension,Manlius,NY,13104,USA
+74,3,Dennis,Russell,1969-02-01,13858 Rt 31 W,Manlius,NY,13104,USA
+75,3,Kelly,Thomas,1984-01-15,5399 W Genesse St,Manlius,NY,13104,USA
+76,3,Martha,Thomas,1978-11-27,100 Thruway Plaza,Manlius,NY,13104,USA
+77,3,Roger,Long,1992-01-10,8064 Brewerton Rd,Manlius,NY,13104,USA
+78,3,Megan,Gray,1995-09-24,3949 Route 31,Manlius,NY,13104,USA
+79,3,Andrea,Richardson,2006-08-06,139 Merchant Place,Manlius,NY,13104,USA
+80,3,Christian,Smith,2007-07-25,279 Troy Road,Manlius,NY,13104,USA
+81,3,Teresa,Foster,2005-12-22,6438 Basile Rowe,Manlius,NY,13104,USA
+82,3,Willie,Hayes,2007-08-04,1818 State Route 3,Manlius,NY,13104,USA
+83,3,Madison,Price,2006-09-09,4300 Lakeville Road,Manlius,NY,13104,USA
+84,3,Jordan,Gray,2006-04-03,990 Route 5 20,Manlius,NY,13104,USA
+85,3,Dylan,Smith,2005-12-14,200 Dutch Meadows Ln,Manlius,NY,13104,USA
+86,3,Juan,Rivera,2007-01-05,1000 State Route 36,Manlius,NY,13104,USA
+87,3,Wayne,Davis,2006-12-10,1400 County Rd 64,Manlius,NY,13104,USA
+88,3,Louis,Bell,2006-10-22,233 5th Ave Ext,Manlius,NY,13104,USA
+89,3,Diana,Williams,2006-06-15,601 Frank Stottile Blvd,Manlius,NY,13104,USA
+90,3,Lori,White,2007-01-11,5783 So Transit Road,Manlius,NY,13104,USA
