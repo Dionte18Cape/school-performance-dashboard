@@ -53,5 +53,9 @@ This project explores academic and salary insights across schools using Oracle S
 - **Python (Pandas)**: Data cleaning and formatting  
 - **Power BI**: Visualization and KPI analysis  
 
+### Related Work
+- [SQL Practice Lab](https://github.com/Dionte18Cape/SQL-Portfolio): A companion repository showcasing structured SQL exercises on joins, subqueries, aggregate functions, and more.
+
+
 
 
