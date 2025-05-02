@@ -46,14 +46,11 @@ This interactive Power BI dashboard visualizes:
 ## Screenshots
 
 ### School Performance Dashboard Preview  
-[![Dashboard Preview](https://imgur.com/placeholder.png)](school_vis.pdf)
-## Screenshots
+[![Dashboard Preview](school_dash_thumbnail.png)](school_vis.pdf)
 
-### School Performance Dashboard Preview  
-[![Dashboard Preview](images/school_dash_thumbnail.png)](school_vis.pdf)
 ---
 
 ## How to Use
-1. Open the `.pbix` file in Power BI OR The screenshot PDF
+1. Open the `.pbix` file in Power BI, OR The screenshot PDF
 2. Explore visuals and filter by school or grade level 
 3. Reference SQL scripts to understand the underlying data joins
