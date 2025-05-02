@@ -47,7 +47,10 @@ This interactive Power BI dashboard visualizes:
 
 ### School Performance Dashboard Preview  
 [![Dashboard Preview](https://imgur.com/placeholder.png)](school_vis.pdf)
+## Screenshots
 
+### School Performance Dashboard Preview  
+[![Dashboard Preview](images/school_dash_thumbnail.png)](school_vis.pdf)
 ---
 
 ## How to Use
